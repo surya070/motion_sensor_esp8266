@@ -1,1 +1,5 @@
-# motion_sensor_esp8266
+# Motion Sensor using esp8266
+
+Our home automation item design is a motion senor which detects motion, which can then be monitored from your screen. Our Motion Sensor Detector Project uses special ESP8266 sensors, lights, and a phone app to let you know when something moves in a certain area. It's a vital tool for enhancing security in various settings, such as homes, offices, or even industrial spaces. We use special sensors known as PIR sensors, which can detect the infrared radiation from the body. These sensors are particularly adept at identifying motion within their range. We also have lights that turn on to confirm when the sensors see something moving and a mobile application that notifies you when the motion is detected. By integrating our motion sensor technology into home automation systems, we significantly enhance safety and security within households. With our home motion senor and app you can always Find Your People.
+
+The code given must be uploaded to the esp8266 and the motion sensor must be connected to the gpio pins used in the code.
